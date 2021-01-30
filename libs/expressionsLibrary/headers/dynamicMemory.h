@@ -1,0 +1,6 @@
+#ifndef EXPRESSIONS_DYNAMICMEMORY_H
+#define EXPRESSIONS_DYNAMICMEMORY_H
+
+void dynamicMemoryExample();
+
+#endif // EXPRESSIONS_DYNAMICMEMORY_H

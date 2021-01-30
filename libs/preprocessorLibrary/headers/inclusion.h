@@ -1,0 +1,6 @@
+#ifndef PREPROCESSOR_INCLUSION_H
+#define PREPROCESSOR_INCLUSION_H
+
+void inclusionSuccess();
+
+#endif // PREPROCESSOR_INCLUSION_H
